@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Nzubechukwu Anumba</h1>
-<h3 align="center">I am a Software Engineer with a passion for solving problems with code and crafting efficient, aesthetically pleasing software solutions.</h3>
+<h3 align="center">I love building cool software that can make a positive impact in the world.</h3>
 
 <p align="left"> <a href="https://twitter.com/princeanumba" target="blank"><img src="https://img.shields.io/twitter/follow/princeanumba?logo=twitter&style=for-the-badge" alt="princeanumba" /></a> </p>
 
