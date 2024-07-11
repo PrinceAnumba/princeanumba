@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate with **other developers to create family tree application**
 
-- 📫 How to reach me **princeanumba0@gmail.com**
 
 - ⚡ Fun fact **Some of my best code is written in the quiet hours of the night, when the world is asleep and the creative juices flow. 😊**
 
