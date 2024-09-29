@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/princeanumba" target="blank"><img src="https://img.shields.io/twitter/follow/princeanumba?logo=twitter&style=for-the-badge" alt="princeanumba" /></a> </p>
 
-//- 🔭 I’m currently working on **a saas project... updates on this comming soon! 😉**
+
 
 - 🌱 I’m currently learning **a lot of stuff, but mainly focused on Next.js, Express.js, Medusa.js and ML**
 
