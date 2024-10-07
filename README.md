@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **a lot of stuff, but mainly focused on Next.js, Express.js, Medusa.js and ML**
 
-- 👯 I’m looking to collaborate with **other developers to create family tree application**
-
 
 - ⚡ Fun fact **Some of my best code is written in the quiet hours of the night, when the world is asleep and the creative juices flow. 😊**
 
