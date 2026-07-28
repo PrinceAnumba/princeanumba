@@ -1,22 +1,106 @@
-<h1 align="center">Hi 👋, I'm Prince Nzubechukwu Anumba</h1>
-<h3 align="center">I love building cool software that can make a positive impact in the world.</h3>
+<h1 align="center">
+Hi 👋, I'm Prince Nzubechukwu Anumba
+</h1>
 
-<p align="left"> <a href="https://twitter.com/princeanumba" target="blank"><img src="https://img.shields.io/twitter/follow/princeanumba?logo=twitter&style=for-the-badge" alt="princeanumba" /></a> </p>
+<h3 align="center">
+Software Engineer • UI/UX Designer • Technical Educator
+</h3>
 
-
-
-- 🌱 I’m currently learning **a lot of stuff, but mainly focused on Next.js, Express.js, Medusa.js and ML**
-
-
-- ⚡ Fun fact **Some of my best code is written in the quiet hours of the night, when the world is asleep and the creative juices flow. 😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/princeanumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princeanumba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince anumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince anumba" height="30" width="40" /></a>
-<a href="https://instagram.com/princeanumba.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princeanumba.dev" height="30" width="40" /></a>
+<p align="center">
+I design and build software that solves real problems.
+<br/>
+From intuitive user experiences to scalable web applications, I enjoy turning ideas into products that create impact across Africa.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeanumba&show_icons=true&locale=en&layout=compact" alt="princeanumba" /></p>
+## 👨🏽‍💻 About Me
+
+- 💼 Software Engineer at **Group Afristar**
+- 🚀 Co-founder & Software Development Tutor at **Tech Impart Training Institute**
+- 🎨 Former UI/UX Lead with 2+ years of product design experience
+- 🌍 Passionate about building technology that improves lives across Africa
+- 🤖 Currently exploring **Artificial Intelligence**, **Machine Learning**, and modern backend architecture
+- 📖 Always learning and improving one project at a time
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=for-the-badge&logo=strapi)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### Design
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-470137?style=for-the-badge&logo=adobe-xd)
+
+### Tools
+
+Git • GitHub • Vercel • Docker • Postman • VS Code • Linux
+
+---
+
+## 🚀 What I'm Building
+
+- Modern web applications with **Next.js**
+- Business management systems
+- AI-powered software
+- Educational technology
+- Scalable frontend architectures
+- Digital products for African businesses
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Backend Engineering
+- Medusa.js
+- Cloud Infrastructure
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceAnumba&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAnumba&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://princeanumba.dev">🌐 Website</a><br/>
+<a href="https://linkedin.com/in/prince-anumba-a5011b1b6">LinkedIn</a><br/>
+<a href="https://x.com/AnumbaPrince">X (Twitter)</a><br/>
+<a href="mailto:your@email.com">Email</a>
+</p>
+
+---
+
+> *"Great software isn't just about writing code—it's about solving problems people care about."*
