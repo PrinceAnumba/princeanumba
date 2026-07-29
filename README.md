@@ -16,7 +16,7 @@ From intuitive user experiences to scalable web applications, I enjoy turning id
 
 ## 👨🏽‍💻 About Me
 
-- 💼 Software Engineer at **Group Afristar**
+- 💼 Software Engineer and Business Development Manager at **Group Afristar**
 - 🚀 Co-founder & Software Development Tutor at **Tech Impart Training Institute**
 - 🎨 Former UI/UX Lead with 2+ years of product design experience
 - 🌍 Passionate about building technology that improves lives across Africa
