@@ -96,7 +96,6 @@ to scalable web applications that create impact across Africa.
 <img src="./metrics/calendar.svg" alt="Contribution calendar and streaks" width="49%"/>
 <img src="./metrics/languages.svg" alt="Most used languages" width="49%"/>
 
-<img src="./metrics/habits.svg" alt="Coding habits" width="100%"/>
 
 </div>
 
