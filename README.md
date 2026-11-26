@@ -85,18 +85,6 @@ to scalable web applications that create impact across Africa.
 
 ---
 
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceAnumba/PrinceAnumba/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceAnumba/PrinceAnumba/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PrinceAnumba/PrinceAnumba/output/github-snake.svg"/>
-</picture>
-</div>
-
----
-
 <div align="center">
 
 > *"Great software isn't just about writing code — it's about solving problems people care about."*
