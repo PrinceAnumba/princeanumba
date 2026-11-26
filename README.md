@@ -85,20 +85,6 @@ to scalable web applications that create impact across Africa.
 
 ---
 
-## 📊 GitHub Analytics
-
-> Generated daily by GitHub Actions straight from the GitHub API — no shared servers, no stale caches.
-
-<div align="center">
-
-<img src="./metrics/overview.svg" alt="GitHub overview" width="100%"/>
-
-<img src="./metrics/calendar.svg" alt="Contribution calendar and streaks" width="49%"/>
-<img src="./metrics/languages.svg" alt="Most used languages" width="49%"/>
-
-
-</div>
-
 <br/>
 
 <div align="center">
